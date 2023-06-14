@@ -73,7 +73,7 @@ API_URL_REDIRECT = {}
 CUSTOM_PATH = "/"
 
 # 如果需要使用newbing，把newbing的长长的cookie放到这里
-NEWBING_STYLE = "creative"  # ["creative", "balanced", "precise"]
+NEWBING_STYLE = "precise"  # ["creative", "balanced", "precise"]
 # 从现在起，如果您调用"newbing-free"模型，则无需填写NEWBING_COOKIES
 NEWBING_COOKIES = """
 [
